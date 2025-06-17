@@ -1,12 +1,11 @@
-<h1 align="center">Hi 👋, I'm Atif Afridi</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Mansoor</h1>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 
 ---
 
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning **MERN Stack**
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
-- 👨‍🎓 Studying Web Development at **EncoderBytes (NAVTTC Program)**
+- 💬 Ask me about **HTML, CSS,Bootstrap,TailwindCss, JavaScript, React,Nodejs,Expressjs,MongoDb**
 - ⚡ Fun fact: I love exploring new technologies and building creative projects!
 
 ---
@@ -27,15 +26,15 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtifAfridiii&show_icons=true&theme=tokyonight" alt="Atif's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtifAfridiii&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xxmansoor&show_icons=true&theme=tokyonight" alt="Mansoor's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxmansoor&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/) (add your link here)
-- [Portfolio](https://your-portfolio-link.com) (optional)
+- [LinkedIn]https://www.linkedin.com/in/muhammad-mansoor-521a082b6/
+
 
 ---
 
