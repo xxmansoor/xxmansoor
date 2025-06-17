@@ -1,62 +1,58 @@
-<h1 align="center">Hi 👋, I'm Muhammad Mansoor</h1>
-<h3 align="center">A passionate Web Developer from Pakistan</h3>
+# 👋 Hey, I'm Muhammad Mansoor
+
+🎓 **Web Developer | MERN Stack Enthusiast | NAVTTC Graduate (EncoderBytes)**
 
 ---
 
-### 👨‍💻 About Me
-- 🌱 I’m currently learning **MERN Stack**
-- 💬 Ask me about **HTML, CSS,Bootstrap,TailwindCss, JavaScript, React,Nodejs,Expressjs,MongoDb**
-- ⚡ Fun fact: I love exploring new technologies and building creative projects!
+## 🚀 About Me
+
+I'm a passionate and creative web developer who recently completed a full-stack web development course from **EncoderBytes** (NAVTTC). I enjoy crafting responsive websites, exploring modern tools, and solving real-world problems through code.
 
 ---
 
-### 🚀 Languages and Tools
+## 🛠️ Tech Stack
 
-<p align="left">
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
-</p>
-</p>
+**Frontend:**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?logo=react)
 
----
+**Backend:**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=xxmansoor&show_icons=true&theme=tokyonight" alt="Mansoor's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxmansoor&layout=compact&theme=tokyonight" />
-</p>
+**Tools:**
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ---
 
+## 💡 Currently Exploring
 
-## 📫 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/muhammad-mansoor-521a082b6/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:mansoorkhaksar22@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://wa.me/923348525661" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
-
-
+- UI development with **React**, **Bootstrap**, and **Tailwind CSS**
+- Backend development using **Node.js**, **Express**, and **MongoDB**
+- Integration of REST APIs and authentication flows
 
 ---
 
-⭐️ *Thanks for visiting my profile!*
+## 📊 GitHub Stats
 
+![Mansoor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxmansoor&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: mansoorkhaksar22@gmail.com  
+- 💬 WhatsApp: [Click here](https://wa.me/923348525661)
+- 🌐 LinkedIn: https://www.linkedin.com/in/muhammad-mansoor-521a082b6/
+
+---
+
+_Thanks for visiting my profile! Let’s connect, learn, and grow together._ 🌱🚀
