@@ -48,10 +48,7 @@ I'm a passionate and creative web developer who recently completed a full-stack 
 ---
 
 ## 📫 Contact Me
-
-- 📧 Email: mansoorkhaksar22@gmail.com  
-- 💬 WhatsApp: [Click here](https://wa.me/923348525661)
-- 🌐 LinkedIn: https://www.linkedin.com/in/muhammad-mansoor-521a082b6/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-mansoor-521a082b6/)
 
 ---
 
