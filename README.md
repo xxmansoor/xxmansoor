@@ -1,14 +1,12 @@
 # 👋 Hey, I'm Muhammad Mansoor
 
-🎓 **Web Developer | MERN Stack Enthusiast | NAVTTC Graduate (EncoderBytes)**
+🎓 **Web Developer | MERN Stack Enthusiast**
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me ##
 
-I'm a passionate and creative web developer who recently completed a full-stack web development course from **EncoderBytes** (NAVTTC). I enjoy crafting responsive websites, exploring modern tools, and solving real-world problems through code.
-
----
+I'm a passionate and creative web developer with a strong foundation in full-stack development. I enjoy building responsive, user-friendly websites and love exploring modern tools and technologies. Problem-solving through code and turning ideas into real-world digital solutions is what drives me. I'm always eager to learn, grow, and take on new challenges in the ever-evolving world of web development.
 
 ## 🛠️ Tech Stack
 
